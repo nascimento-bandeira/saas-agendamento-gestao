@@ -1,4 +1,4 @@
-# 📅 Agendamente - SaaS de Agendamento e Gestão para Negócios Locais
+# 📅 Agendamento - SaaS de Agendamento e Gestão para Negócios Locais
 
 [![Vercel Deployment](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://seu-link-aqui.vercel.app)
 [![Supabase Backend](https://img.shields.io/badge/Backend-Supabase-emerald?style=flat-square&logo=supabase)](https://supabase.com)
