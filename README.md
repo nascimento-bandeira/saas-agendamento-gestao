@@ -10,16 +10,6 @@ O sistema resolve o problema de agendamentos manuais via mensagens, oferecendo u
 
 ---
 
-## 🚀 Demonstração em Tempo Real
-
-Acesse a aplicação e teste com os dados de demonstração:
-*   **🔗 Link da Aplicação:** [https://seu-link-aqui.vercel.app](https://seu-link-aqui.vercel.app)
-*   **🔑 Credenciais de Teste (Painel ADM):**
-    *   **E-mail:** `demo@agendamente.com`
-    *   **Senha:** `demo1234`
-
----
-
 ## ✨ Funcionalidades Principais
 
 ### 📱 Portal Público do Cliente (Mobile-First)
@@ -55,4 +45,3 @@ O projeto foi construído utilizando as tecnologias mais modernas do ecossistema
 
 ---
 
-## 🔧 Como Executar o Projeto Localmente
